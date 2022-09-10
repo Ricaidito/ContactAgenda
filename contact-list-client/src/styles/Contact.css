@@ -1,0 +1,10 @@
+#contact {
+  border: 0.5px solid gray;
+  border-radius: 5px;
+  box-shadow: 5px 5px;
+  background-color: #ecb390;
+}
+
+#card-fields > * {
+  background-color: #fcf8e8;
+}
